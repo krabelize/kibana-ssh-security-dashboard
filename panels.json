@@ -1,0 +1,206 @@
+[
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 10,
+      "i": "503e83d9-b735-48de-80a3-aa9d6f186d95",
+      "w": 24,
+      "x": 0,
+      "y": 0
+    },
+    "panelIndex": "503e83d9-b735-48de-80a3-aa9d6f186d95",
+    "embeddableConfig": {
+      "title": "Invalid SSH attempts map",
+      "mapCenter": null,
+      "mapZoom": null
+    },
+    "title": "Invalid SSH attempts map",
+    "panelRefName": "panel_0"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 10,
+      "i": "43bce9e2-c500-4984-8b26-ddcf7b72406f",
+      "w": 24,
+      "x": 24,
+      "y": 0
+    },
+    "panelIndex": "43bce9e2-c500-4984-8b26-ddcf7b72406f",
+    "embeddableConfig": {
+      "title": "Successful SSH sessions map",
+      "mapCenter": null,
+      "mapZoom": 4
+    },
+    "title": "Successful SSH sessions map",
+    "panelRefName": "panel_1"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "f38a1135-8cdf-4539-9b2f-d65bd8cf6a78",
+      "w": 20,
+      "x": 0,
+      "y": 10
+    },
+    "panelIndex": "f38a1135-8cdf-4539-9b2f-d65bd8cf6a78",
+    "embeddableConfig": {
+      "title": "Invalid SSH attempts",
+      "legendOpen": true,
+      "vis": {
+        "legendOpen": true
+      }
+    },
+    "title": "Invalid SSH attempts",
+    "panelRefName": "panel_2"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "2a2d27aa-6ef7-481f-992d-8c008ec8dfaa",
+      "w": 4,
+      "x": 20,
+      "y": 10
+    },
+    "panelIndex": "2a2d27aa-6ef7-481f-992d-8c008ec8dfaa",
+    "embeddableConfig": {
+      "title": ""
+    },
+    "panelRefName": "panel_3"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "bb9a2a09-9eb7-4ccf-9915-8807e167273c",
+      "w": 20,
+      "x": 24,
+      "y": 10
+    },
+    "panelIndex": "bb9a2a09-9eb7-4ccf-9915-8807e167273c",
+    "embeddableConfig": {
+      "title": "Successful SSH sessions",
+    },
+    "title": "Successful SSH sessions",
+    "panelRefName": "panel_4"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "d614a224-fbff-4dff-a213-d38c42b46db6",
+      "w": 4,
+      "x": 44,
+      "y": 10
+    },
+    "panelIndex": "d614a224-fbff-4dff-a213-d38c42b46db6",
+    "embeddableConfig": {
+      "title": ""
+    },
+    "panelRefName": "panel_5"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "3252cb46-7192-41e5-ad18-8d94d87c6cb9",
+      "w": 24,
+      "x": 24,
+      "y": 21
+    },
+    "panelIndex": "3252cb46-7192-41e5-ad18-8d94d87c6cb9",
+    "embeddableConfig": {
+      "title": "Successful SSH sessions",
+    },
+    "title": "Successful SSH sessions",
+    "panelRefName": "panel_6"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 11,
+      "i": "5d1dfedb-6dff-42fe-a344-c16ea9b8858a",
+      "w": 24,
+      "x": 0,
+      "y": 21
+    },
+    "panelIndex": "5d1dfedb-6dff-42fe-a344-c16ea9b8858a",
+    "embeddableConfig": {
+      "title": "Invalid SSH users",
+      "legendOpen": true,
+      "vis": {
+        "legendOpen": true
+      }
+    },
+    "title": "Invalid SSH users",
+    "panelRefName": "panel_7"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 8,
+      "i": "4ccb6672-6f5c-49bc-b0a3-c4a331c8844d",
+      "w": 20,
+      "x": 24,
+      "y": 32
+    },
+    "panelIndex": "4ccb6672-6f5c-49bc-b0a3-c4a331c8844d",
+    "embeddableConfig": {
+      "title": "Successful sudo",
+      "vis": {
+      }
+    },
+    "title": "Successful sudo",
+    "panelRefName": "panel_8"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 8,
+      "i": "33b65ffe-d623-4782-981f-f3b8bc7c52cc",
+      "w": 4,
+      "x": 44,
+      "y": 32
+    },
+    "panelIndex": "33b65ffe-d623-4782-981f-f3b8bc7c52cc",
+    "embeddableConfig": {
+      "title": ""
+    },
+    "panelRefName": "panel_9"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 8,
+      "i": "7d767108-536d-4047-837b-98e386d9779a",
+      "w": 20,
+      "x": 0,
+      "y": 32
+    },
+    "panelIndex": "7d767108-536d-4047-837b-98e386d9779a",
+    "embeddableConfig": {
+      "title": "Invalid sudo",
+      "vis": {
+      }
+    },
+    "title": "Invalid sudo",
+    "panelRefName": "panel_10"
+  },
+  {
+    "version": "7.6.1",
+    "gridData": {
+      "h": 8,
+      "i": "5eb29ef2-a590-4c0a-a563-2a216e722150",
+      "w": 4,
+      "x": 20,
+      "y": 32
+    },
+    "panelIndex": "5eb29ef2-a590-4c0a-a563-2a216e722150",
+    "embeddableConfig": {
+      "title": ""
+    },
+    "panelRefName": "panel_11"
+  }
+]
